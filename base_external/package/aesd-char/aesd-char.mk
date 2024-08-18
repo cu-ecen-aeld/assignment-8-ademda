@@ -6,9 +6,9 @@
 ##############################################################
 
 
-AESD_CHAR_VERSION = 'd4edc371df99752e511a26057599a7b49d25354d'
+AESD_CHAR_VERSION = '2d7d90bcd2595d4cfecf75183a2d1218ecd9153f'
 
-AESD_CHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-Silex93.git'
+AESD_CHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-ademda.git'
 AESD_CHAR_SITE_METHOD = git
 AESD_CHAR_GIT_SUBMODULES = YES
 
